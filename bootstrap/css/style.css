@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    background-color: #51A351;
+}
+.quem-somos{
+    background-color: #A79F52;
+    color: #1b361b;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: #9c944b;
+    color: #1b361b;
+}
+.servicos{
+    background-color: #A79F52;
+    color: #1b361b;
+}
+.bg-footer{
+    background-color: #102210;
+    color: #51A351;
+}
